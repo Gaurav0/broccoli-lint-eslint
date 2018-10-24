@@ -1,5 +1,5 @@
 {
-  "name": "broccoli-lint-eslint",
+  "name": "@gaurav9576/broccoli-lint-eslint",
   "version": "5.0.0",
   "description": "broccoli filter that runs eslint",
   "main": "lib/index.js",
